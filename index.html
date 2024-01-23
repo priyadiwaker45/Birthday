@@ -91,9 +91,37 @@
             <button class="btn2 btn">click me</button>
            </div>
         </div>
+        <div id="p5" class="page1">
+            <div class="img5 imgs">
+                <img src="/Images/giphy (2).gif" alt="">
+            </div>
+            <div class="container">
+                <div class="envelope-wrapper">
+                    <div class="envelope">
+                        <div class="letter">
+                            <div class="text">
+                                <strong>MY LOVE</strong>
+                                <p>
+                                    Happy birthday, my love! Your presence fills my life with joy. May God bring you lots of happiness and success. Cheers to this most precious day. Keep growing, jaan!💖
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="heart"></div>
+                </div>
+            </div>
+        </div>
     </div>
+</div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
      
    <script src="script.js"></script>
+    <script>
+    const envelope = document.querySelector('.envelope-wrapper');
+     envelope.addEventListener('click', () => {
+      envelope.classList.toggle('flap');
+  });
+
+   </script>
 </body>
 </html>
