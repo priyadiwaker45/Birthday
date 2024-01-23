@@ -195,5 +195,9 @@ h2::after{
     font-size: 1vw;
     width: 30vw 
 }
+#p4{
+    display: none;
+    background-color: #fff;
+}
 
 
