@@ -17,6 +17,7 @@
   h2{
     font-size: 5vw;
     width: 69%;
+     font-weight: 500;
   }
   h2::after{
     top: 4vh;
@@ -30,9 +31,11 @@
   }
   .text1{
     .text1{
-    width: 86vw ;
+    width: 96vw ;
     left: 49vw;
     top: 36%;
+      height: 50vh;
+    font-weight: 500;
   }
   }
   #t2{
@@ -40,7 +43,8 @@
     position: absolute;
     top: 37%;
     height: 50vh;
-    width: 86vw 
+    width: 86vw
+     font-weight: 500;
   }
   .imgs{
     display: flex;
