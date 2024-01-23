@@ -16,4 +16,10 @@ $(document).ready(function(){
     })
 
   })
+$(document).ready(function(){
+    $(".btn4").click(function(){
+      $("#p5").slideDown("slow")
+    })
+
+  })
 
