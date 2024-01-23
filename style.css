@@ -186,14 +186,11 @@ h2{
 
 h2::after{
     content: "";
-    width: 90%;
+    width: auto;
     height: 0.5vh;
     background-color: #f6cc17;
     display: flex;
-    top: 6vh;
-    position: absolute;
 }
-
 #t3 h5{
     font-size: 1vw;
     width: 30vw 
