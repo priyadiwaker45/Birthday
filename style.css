@@ -37,8 +37,7 @@ html, body{
     transform: translate(-50%, 0%);
     border-radius: 40px;
     background: #e0e0e0;
-    box-shadow:  21px -21px 54px #b1b1b1a6, inset
-              -21px 21px 74px #ffffff;
+    box-shadow: 21px -21px 54px #b1b1b136, inset -21px 21px 74px #ffffff;
 }
 
 .text1 h5{
