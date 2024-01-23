@@ -6,6 +6,9 @@
   #img1{
     width: 45vw;
   }
+  .text1 h5{
+    font-weight: 500;
+  }
   
   #t2 h5{
     font-size: 3vw;
@@ -14,6 +17,7 @@
     height: 0em;
     top: 16%;
     padding: 4%;
+    font-weight: 500;
   }
   h2{
     font-size: 5vw;
