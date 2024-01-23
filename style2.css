@@ -29,9 +29,11 @@
     width: 22vw;
   }
   .text1{
-    width: 80vw;
-    left: 44%;
+    .text1{
+    width: 86vw ;
+    left: 49vw;
     top: 36%;
+  }
   }
   #t2{
     left: 49vw;
