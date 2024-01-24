@@ -260,7 +260,7 @@ h2::after{
   .envelope > .letter {
     position: absolute;
     right: 20%;
-    bottom: 5%;
+    bottom: 0;
     width: 54%;
     height: 80%;
     background: var(--primary);
